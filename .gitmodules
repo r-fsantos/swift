@@ -4,3 +4,6 @@
 [submodule "DesignSystemSample"]
 	path = projects/DesignSystemSample
 	url = https://github.com/r-fsantos/DesignSystemSample.git
+[submodule "projects/FinderRepo"]
+	path = projects/FinderRepo
+	url = https://github.com/r-fsantos/FinderRepo.git
