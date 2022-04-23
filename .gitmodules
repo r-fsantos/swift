@@ -13,3 +13,6 @@
 [submodule "Marvel"]
 	path = projects/Marvel
 	url = https://github.com/r-fsantos/Marvel.git
+[submodule "ToDoApp"]
+	path = ToDoApp
+	url = https://github.com/r-fsantos/ToDoApp.git
