@@ -7,3 +7,6 @@
 [submodule "projects/FinderRepo"]
 	path = projects/FinderRepo
 	url = https://github.com/r-fsantos/FinderRepo.git
+[submodule "hands-on-marvel"]
+	path = hands-on-marvel
+	url = https://github.com/r-fsantos/marvel-dougbh.git
