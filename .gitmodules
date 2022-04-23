@@ -23,5 +23,5 @@
 	path = projects/ToDoListViewCode
 	url = https://github.com/r-fsantos/ToDoListViewCode.git
 [submodule "UIVCLifeCycle"]
-	path = UIVCLifeCycle
+	path = projects/UIVCLifeCycle
 	url = https://github.com/r-fsantos/UIVC-Life-Cycle.git
