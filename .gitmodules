@@ -17,5 +17,5 @@
 	path = projects/ToDoApp
 	url = https://github.com/r-fsantos/ToDoApp.git
 [submodule "Safarium"]
-	path = Safarium
+	path = projects/Safarium
 	url = https://github.com/r-fsantos/Safarium.git
