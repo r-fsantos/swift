@@ -28,3 +28,12 @@
 [submodule "NetworkLayer"]
 	path = projects/NetworkLayer
 	url = https://github.com/r-fsantos/NetworkLayer.git
+[submodule "projects/GoDev"]
+	path = projects/GoDev
+	url = https://github.com/r-fsantos/Frameworks.git
+[submodule "projects/CoordinatorApp"]
+	path = projects/CoordinatorApp
+	url = https://github.com/r-fsantos/CoordinatorApp.git
+[submodule "projects/navegation"]
+	path = projects/navegation
+	url = https://github.com/r-fsantos/NavigationApp.git
