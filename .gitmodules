@@ -10,3 +10,6 @@
 [submodule "hands-on-marvel"]
 	path = projects/hands-on-marvel
 	url = https://github.com/r-fsantos/marvel-dougbh.git
+[submodule "Marvel"]
+	path = Marvel
+	url = https://github.com/r-fsantos/Marvel.git
