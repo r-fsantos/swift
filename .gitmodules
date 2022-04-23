@@ -1,3 +1,6 @@
 [submodule "APIGithub"]
 	path = projects/APIGithub
 	url = https://github.com/r-fsantos/APIGitHub.git
+[submodule "DesignSystemSample"]
+	path = DesignSystemSample
+	url = https://github.com/r-fsantos/DesignSystemSample.git
