@@ -20,5 +20,5 @@
 	path = projects/Safarium
 	url = https://github.com/r-fsantos/Safarium.git
 [submodule "ToDoListViewCode"]
-	path = ToDoListViewCode
+	path = projects/ToDoListViewCode
 	url = https://github.com/r-fsantos/ToDoListViewCode.git
