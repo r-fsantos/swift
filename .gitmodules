@@ -1,0 +1,3 @@
+[submodule "APIGithub"]
+	path = APIGithub
+	url = https://github.com/r-fsantos/APIGitHub.git
