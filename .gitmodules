@@ -26,5 +26,5 @@
 	path = projects/UIVCLifeCycle
 	url = https://github.com/r-fsantos/UIVC-Life-Cycle.git
 [submodule "NetworkLayer"]
-	path = NetworkLayer
+	path = projects/NetworkLayer
 	url = https://github.com/r-fsantos/NetworkLayer.git
