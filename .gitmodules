@@ -37,3 +37,6 @@
 [submodule "projects/navegation"]
 	path = projects/navegation
 	url = https://github.com/r-fsantos/NavigationApp.git
+[submodule "pocs/ReusableViews"]
+	path = pocs/ReusableViews
+	url = https://github.com/r-fsantos/ReusableViews.git
