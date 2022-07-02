@@ -40,3 +40,6 @@
 [submodule "pocs/ReusableViews"]
 	path = pocs/ReusableViews
 	url = https://github.com/r-fsantos/ReusableViews.git
+[submodule "projects/ConsultaCEP"]
+	path = projects/ConsultaCEP
+	url = https://github.com/r-fsantos/ConsultaCEP.git
